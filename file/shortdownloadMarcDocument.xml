@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+  <marc:record>
+    <marc:leader>00784cam a2200229I  4500</marc:leader>
+    <marc:controlfield tag="001">401984</marc:controlfield>
+    <marc:controlfield tag="003">OR</marc:controlfield>
+    <marc:controlfield tag="008">910608s1915    mauacfg       000 0 eng  </marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">15025834</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">10448927</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">DLC</marc:subfield>
+      <marc:subfield code="c">OUN</marc:subfield>
+      <marc:subfield code="d">OCL</marc:subfield>
+      <marc:subfield code="d">ORE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">OREU</marc:subfield>
+      <marc:subfield code="l">bna</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2=" ">
+      <marc:subfield code="a">MT1</marc:subfield>
+      <marc:subfield code="b">.E44</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">MT1</marc:subfield>
+      <marc:subfield code="b">.E5</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">MT1</marc:subfield>
+      <marc:subfield code="b">.E5</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Elson, Arthur,</marc:subfield>
+      <marc:subfield code="d">1873-1940.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The book of musical knowledge;</marc:subfield>
+      <marc:subfield code="b">the history, technique, and appreciation of music, together with lives of the great composers, for music-lovers, students and teachers,</marc:subfield>
+      <marc:subfield code="c">by Arthur Elson ...</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Boston,</marc:subfield>
+      <marc:subfield code="a">New York,</marc:subfield>
+      <marc:subfield code="b">Houghton Mifflin Company,</marc:subfield>
+      <marc:subfield code="c">c1915.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xii, 603 p., plates.</marc:subfield>
+      <marc:subfield code="b">front., illus. (incl. music) ports., facsim.</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Musicians.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="907" ind1=" " ind2=" ">
+      <marc:subfield code="b">14336339</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>00834nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">10499164</marc:controlfield>
+    <marc:controlfield tag="003">OR</marc:controlfield>
+    <marc:controlfield tag="008">910608s1983    enka     b    001 0 eng  </marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">83171583 /MN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0907689035 :</marc:subfield>
+      <marc:subfield code="c">Đ9.95</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0907689043 (pbk.) :</marc:subfield>
+      <marc:subfield code="c">Đ5.00</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">10297895</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">DLC</marc:subfield>
+      <marc:subfield code="c">DLC</marc:subfield>
+      <marc:subfield code="d">ORE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">OREU</marc:subfield>
+      <marc:subfield code="l">bna</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.B7963 1983</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.B7963 1983</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2=" ">
+      <marc:subfield code="a">780</marc:subfield>
+      <marc:subfield code="2">19</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Boult, Adrian,</marc:subfield>
+      <marc:subfield code="c">Sir,</marc:subfield>
+      <marc:subfield code="d">1889-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Boult on music :</marc:subfield>
+      <marc:subfield code="b">words from a lifetime's communication /</marc:subfield>
+      <marc:subfield code="c">foreword by Bernard Shore ; introduction by Vernon Handley.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">[London] :</marc:subfield>
+      <marc:subfield code="b">Toccata Press,</marc:subfield>
+      <marc:subfield code="c">1983.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">196 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1=" " ind2="0">
+      <marc:subfield code="a">Musicians on music,</marc:subfield>
+      <marc:subfield code="x">0264-6889 ;</marc:subfield>
+      <marc:subfield code="v">no. 1.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="907" ind1=" " ind2=" ">
+      <marc:subfield code="b">12900953</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>00532nam a2200217I  4500</marc:leader>
+    <marc:controlfield tag="001">855760</marc:controlfield>
+    <marc:controlfield tag="003">OR</marc:controlfield>
+    <marc:controlfield tag="008">910608s1964    enk           000 0 eng u</marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">65007701</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">10476398</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">KSU</marc:subfield>
+      <marc:subfield code="d">m.c.</marc:subfield>
+      <marc:subfield code="d">ORE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">OREU</marc:subfield>
+      <marc:subfield code="l">bna</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.W64</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.W5</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.W5</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wilson, Colin,</marc:subfield>
+      <marc:subfield code="d">1931-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Brandy of the damned;</marc:subfield>
+      <marc:subfield code="b">discoveries of a musical eclectic.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London,</marc:subfield>
+      <marc:subfield code="b">J. Baker</marc:subfield>
+      <marc:subfield code="c">[1964]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">182 p.</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="907" ind1=" " ind2=" ">
+      <marc:subfield code="b">14601084</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>00833nam a22002891  4500</marc:leader>
+    <marc:controlfield tag="001">885766</marc:controlfield>
+    <marc:controlfield tag="003">OR</marc:controlfield>
+    <marc:controlfield tag="008">910608r19671928nyu           000 0 eng  </marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">67030230</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">10083835</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">DLC</marc:subfield>
+      <marc:subfield code="c">DLC</marc:subfield>
+      <marc:subfield code="d">m.c.</marc:subfield>
+      <marc:subfield code="d">ORE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">OREU</marc:subfield>
+      <marc:subfield code="l">bna</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2=" ">
+      <marc:subfield code="a">PS3535.O714</marc:subfield>
+      <marc:subfield code="b">B8 1967</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">700/.8</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">PS3535.O714</marc:subfield>
+      <marc:subfield code="b">B8 1928a</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">PS3535.O714</marc:subfield>
+      <marc:subfield code="b">B8 1928a</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Rosenfeld, Paul,</marc:subfield>
+      <marc:subfield code="d">1890-1946.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">By way of art;</marc:subfield>
+      <marc:subfield code="b">criticisms of music, literature, painting, sculpture, and the dance.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Freeport, N.Y.,</marc:subfield>
+      <marc:subfield code="b">Books for Libraries Press</marc:subfield>
+      <marc:subfield code="c">[1967]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">x, 309 p.</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Essay index reprint series.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Reprint of the 1928 ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Art.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Literature.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1=" " ind2="0">
+      <marc:subfield code="a">Essay index reprint series.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="907" ind1=" " ind2=" ">
+      <marc:subfield code="b">10823633</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>00630nam a2200217I  4500</marc:leader>
+    <marc:controlfield tag="001">1213090</marc:controlfield>
+    <marc:controlfield tag="003">OR</marc:controlfield>
+    <marc:controlfield tag="008">910608s1947    nyu           000 0 eng u</marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">48005256</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">10475979</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">XFM</marc:subfield>
+      <marc:subfield code="d">ORE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">OREU</marc:subfield>
+      <marc:subfield code="l">bna</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML55</marc:subfield>
+      <marc:subfield code="b">.F2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML55</marc:subfield>
+      <marc:subfield code="b">.F2</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Fabricant, Noah D.</marc:subfield>
+      <marc:subfield code="q">(Noah Daniel),</marc:subfield>
+      <marc:subfield code="d">1904-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="2">
+      <marc:subfield code="a">A caravan of music stories by the world's great authors;</marc:subfield>
+      <marc:subfield code="c">ed. by Noah D. Fabricant and Heinz Werner; introd. by Karl Krueger.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York,</marc:subfield>
+      <marc:subfield code="b">F. Fell,</marc:subfield>
+      <marc:subfield code="c">1947.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">x, 312 p.</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Werner, Heinz,</marc:subfield>
+      <marc:subfield code="d">1901-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="907" ind1=" " ind2=" ">
+      <marc:subfield code="b">14597172</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>01057cam a2200349   4500</marc:leader>
+    <marc:controlfield tag="001">99186</marc:controlfield>
+    <marc:controlfield tag="003">OR</marc:controlfield>
+    <marc:controlfield tag="008">910608s1970    nyu      b    001 0 engm </marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">78077390 /MN/r84</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0393021378</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="c">$6.00</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">10476092</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">DLC</marc:subfield>
+      <marc:subfield code="c">DLC</marc:subfield>
+      <marc:subfield code="d">m.c.</marc:subfield>
+      <marc:subfield code="d">ORE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="1" ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+      <marc:subfield code="h">ger</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">OREU</marc:subfield>
+      <marc:subfield code="l">bna</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.B688</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">780.9033</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.B49</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.B49</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Blume, Friedrich,</marc:subfield>
+      <marc:subfield code="d">1893-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Classic and romantic music;</marc:subfield>
+      <marc:subfield code="b">a comprehensive survey.</marc:subfield>
+      <marc:subfield code="c">Translated by M. D. Herter Norton.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">[1st ed.]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York,</marc:subfield>
+      <marc:subfield code="b">W. W. Norton</marc:subfield>
+      <marc:subfield code="c">[1970]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">viii, 213 p.</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Translation of two essays first published in Die Musik in Geschichte und Gegenwart.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliography: p. [195]-198.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Music</marc:subfield>
+      <marc:subfield code="y">18th century</marc:subfield>
+      <marc:subfield code="x">History and criticism.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Music</marc:subfield>
+      <marc:subfield code="y">19th century</marc:subfield>
+      <marc:subfield code="x">History and criticism.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Classicism in music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Romanticism in music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="907" ind1=" " ind2=" ">
+      <marc:subfield code="b">14598279</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>00717pam a2200253   4500</marc:leader>
+    <marc:controlfield tag="001">213534</marc:controlfield>
+    <marc:controlfield tag="003">OR</marc:controlfield>
+    <marc:controlfield tag="008">910608r1972    nyua         |000 0 eng  </marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">74166098 /MN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0306702932</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">10021740</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">DLC</marc:subfield>
+      <marc:subfield code="c">DLC</marc:subfield>
+      <marc:subfield code="d">m.c.</marc:subfield>
+      <marc:subfield code="d">ORE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">OREU</marc:subfield>
+      <marc:subfield code="l">bna</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.B664 1972</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.B664 1972</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">780/.8</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Blom, Eric,</marc:subfield>
+      <marc:subfield code="d">1888-1959.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Classics: major and minor,</marc:subfield>
+      <marc:subfield code="b">with some other musical ruminations.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York,</marc:subfield>
+      <marc:subfield code="b">Da Capo Press,</marc:subfield>
+      <marc:subfield code="c">1972 [c1958]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xi, 212 p.</marc:subfield>
+      <marc:subfield code="b">illus.</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Da Capo Press music reprint series.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1=" " ind2="0">
+      <marc:subfield code="a">Da Capo Press music reprint series.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="907" ind1=" " ind2=" ">
+      <marc:subfield code="b">10213454</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>01134cam a2200229I  4500</marc:leader>
+    <marc:controlfield tag="001">285912</marc:controlfield>
+    <marc:controlfield tag="003">OR</marc:controlfield>
+    <marc:controlfield tag="008">910608s1928    enkag         000 0cengm </marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">29014488</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">10476121</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">DLC</marc:subfield>
+      <marc:subfield code="c">URB</marc:subfield>
+      <marc:subfield code="d">OCL</marc:subfield>
+      <marc:subfield code="d">m/c</marc:subfield>
+      <marc:subfield code="d">ORE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">OREU</marc:subfield>
+      <marc:subfield code="l">bna</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2=" ">
+      <marc:subfield code="a">ML60.H15</marc:subfield>
+      <marc:subfield code="b">C7</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.H15</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML60</marc:subfield>
+      <marc:subfield code="b">.H15</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hadow, W. H.</marc:subfield>
+      <marc:subfield code="q">(William Henry),</marc:subfield>
+      <marc:subfield code="d">1859-1937.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Collected essays</marc:subfield>
+      <marc:subfield code="c">[by] W. H. Hadow.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London,</marc:subfield>
+      <marc:subfield code="b">Oxford University Press, H. Milford,</marc:subfield>
+      <marc:subfield code="c">1928.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">4 p. l., 343, [1] p.</marc:subfield>
+      <marc:subfield code="b">illus. (music)</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Some tendencies in modern music.--Some aspects of modern music.--William Byrd, 1623-1923.--A Croatian composer [Haydn]--Beethoven.--Brahms and the classical tradition.--Sir Hubert Parry.--Music and drama.--Church music.--The place of beauty in worship.--A comparison of poetry and music.--Music and education: I. The place of music in life. II. The place of humane letters in education. III. The place of music in humane letters.--Some landmarks in education.--Iago.--The use of comic episodes in tragedy.--Epilogue.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="907" ind1=" " ind2=" ">
+      <marc:subfield code="b">14598565</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+  <marc:record>
+    <marc:leader>01146cam a2200265   4500</marc:leader>
+    <marc:controlfield tag="001">79748</marc:controlfield>
+    <marc:controlfield tag="003">OR</marc:controlfield>
+    <marc:controlfield tag="008">910608r19701940nyuag         001 0 eng  </marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">73111873 /MN/r86</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0836916360</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">10476396</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">DLC</marc:subfield>
+      <marc:subfield code="c">DLC</marc:subfield>
+      <marc:subfield code="d">m.c.</marc:subfield>
+      <marc:subfield code="d">OCL</marc:subfield>
+      <marc:subfield code="d">ORE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">OREU</marc:subfield>
+      <marc:subfield code="l">bna</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1=" " ind2=" ">
+      <marc:subfield code="a">ML60.W49</marc:subfield>
+      <marc:subfield code="b">C6 1940a</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2=" ">
+      <marc:subfield code="a">ML60.W49</marc:subfield>
+      <marc:subfield code="b">C6 1940a</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">780</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Whittaker, W. G.</marc:subfield>
+      <marc:subfield code="q">(William Gillies),</marc:subfield>
+      <marc:subfield code="d">1876-1944.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Collected essays.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Freeport, N.Y.,</marc:subfield>
+      <marc:subfield code="b">Books for Libraries Press</marc:subfield>
+      <marc:subfield code="c">[1970]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">235 p.</marc:subfield>
+      <marc:subfield code="b">illus., music.</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1=" " ind2="0">
+      <marc:subfield code="a">Essay index reprint series.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Reprint of the 1940 ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">The folk-music of north-eastern England.--The claims of tonic solfa.--An adventure (Tallis's 40-part motet)--William Young.--Some observations on Purcell's harmony.--A pilgrimage through the church cantatas of J. S. Bach.--The Bachs and Eisenach.--Handel, Bach, and Mr. Robinson.--The choral writing in the Missa solennis.--Some notes on Fidelio.--Wagner's version of Gluck's Iphigenia in Aulis.--The business of a musical editor.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Music.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="907" ind1=" " ind2=" ">
+      <marc:subfield code="b">14601060</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+
+</marc:collection>

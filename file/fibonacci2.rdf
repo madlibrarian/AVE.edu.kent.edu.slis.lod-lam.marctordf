@@ -1,0 +1,319 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" > 
+  <rdf:Description rdf:nodeID="A0">
+    <dc:type>text</dc:type>
+    <dc:description>Shaw &amp; Shoemaker,</dc:description>
+    <dc:description>Microfiche.</dc:description>
+    <dc:date>1806.</dc:date>
+    <dc:subject>Music.</dc:subject>
+    <dc:publisher>[Boston] : Russell &amp; Cutler, printer,</dc:publisher>
+    <dc:title>An address on music, delivered to the First Baptist Singing Society, Boston ... May 15, 1806 [microform] /</dc:title>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:coverage>United States Massachusetts Boston.</dc:coverage>
+    <dc:language>eng</dc:language>
+    <dc:creator>Ellis, Ferdinand.</dc:creator>
+    <dc:description>Half-title: Mr. Ellis's address on music.</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A1">
+    <dc:subject>Music</dc:subject>
+    <dc:creator>Nketia, J. H. Kwabena.</dc:creator>
+    <dc:description>Includes bibliography.</dc:description>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:language>eng</dc:language>
+    <dc:date>1962.</dc:date>
+    <dc:title>African music in Ghana : a survey of traditional forms /</dc:title>
+    <dc:publisher>Accra : Longmans,</dc:publisher>
+    <dc:type>text</dc:type>
+    <dc:subject>Music.</dc:subject>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A2">
+    <dc:subject>http://id.loc.gov/authorities/names/n80010421.html</dc:subject>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:subject>Music.</dc:subject>
+    <dc:creator>Huneker, James,1857-1921.</dc:creator>
+    <dc:type>text</dc:type>
+    <dc:date>1920.</dc:date>
+    <dc:subject>Garden, Mary, 1874-1967.</dc:subject>
+    <dc:publisher>C. Scribner's sons,</dc:publisher>
+    <dc:title>Bedouins.</dc:title>
+    <dc:creator>http://id.loc.gov/authorities/names/n80035827.html</dc:creator>
+    <dc:language>eng</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A3">
+    <dc:creator>Bartk̤, Bľa,1881-1945.</dc:creator>
+    <dc:publisher>New York : St. Martin's Press,</dc:publisher>
+    <dc:title>Bľa Bartk̤ essays /</dc:title>
+    <dc:creator>http://id.loc.gov/authorities/names/n50012319.html</dc:creator>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:description>Includes index.</dc:description>
+    <dc:subject>Music.</dc:subject>
+    <dc:type>text</dc:type>
+    <dc:creator>Suchoff, Benjamin.</dc:creator>
+    <dc:description>Bibliography: p. 527-555.</dc:description>
+    <dc:date>1976.</dc:date>
+    <dc:language>eng</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A4">
+    <dc:subject>Music.</dc:subject>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:type>text</dc:type>
+    <dc:title>Be your own music critic; The Carnegie Hall anniversary lectures</dc:title>
+    <dc:date>[1971, c1941]</dc:date>
+    <dc:publisher>Freeport, N.Y., Books for Libraries Press</dc:publisher>
+    <dc:description>Introduction, by R. E. Simon, Jr.--Be your own music critic, by O. Downes.--Styles in singing, by E. Johnson.--The literature for the voice, by Y. Tinayre.--The evolution of the piano and its literature, by L. Mannes.--Problems of piano playing and teaching, by E. Petri.--The violin, the singer among instruments, by A. Spalding.--The capacities of the string instruments, by A. Stoessel.--The woodwinds, by G. Barrr̈e.--Panorama of the brass and percussion instruments, by M. Alloo.--Facing the conductor, by L. Barzin.--The evolution of orchestral styles, by H. McDonald.</dc:description>
+    <dc:creator>Simon, Robert E.(Robert Edward),1914-</dc:creator>
+    <dc:creator>http://id.loc.gov/authorities/names/n88027588.html</dc:creator>
+    <dc:language>eng</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A5">
+    <dc:title>The Arts in renewal,</dc:title>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85077507.html</dc:subject>
+    <dc:subject>Music.</dc:subject>
+    <dc:publisher>New York, A.S. Barnes</dc:publisher>
+    <dc:type>text</dc:type>
+    <dc:creator>Viereck, Peter Robert Edwin,1916-</dc:creator>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:language>eng</dc:language>
+    <dc:subject>Civilization, Modern.</dc:subject>
+    <dc:creator>Mumford, Lewis,1895-</dc:creator>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85026469.html</dc:subject>
+    <dc:description>From revolt to renewal, by L. Mumford.- Beyond revolt: the education of a poet, by P. Viereck.- On freedom in music, by W. Schuman.- The conscience of the contemporary novel, by James A. Michener.- The old theatre and the new challenge, by M. Connelly.</dc:description>
+    <dc:subject>Literature.</dc:subject>
+    <dc:date>[1961, c1951]</dc:date>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A6">
+    <dc:title>Notebooks 1924-1954 /</dc:title>
+    <dc:creator>http://id.loc.gov/authorities/names/nb2001077346.html</dc:creator>
+    <dc:description>Includes index.</dc:description>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:subject>Music.</dc:subject>
+    <dc:type>text</dc:type>
+    <dc:creator>Tanner, Michael.</dc:creator>
+    <dc:publisher>London ; New York :  Quartet,</dc:publisher>
+    <dc:date>1989.</dc:date>
+    <dc:description>Translation of: Aufzeichnungen 1924-1954.</dc:description>
+    <dc:creator>Furtwñgler, Wilhelm,1886-1954.</dc:creator>
+    <dc:language>eng</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A7">
+    <dc:language>eng</dc:language>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85115083.html</dc:subject>
+    <dc:subject>Romanticism in music.</dc:subject>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85026717.html</dc:subject>
+    <dc:date>[1970]</dc:date>
+    <dc:creator>Blume, Friedrich,1893-</dc:creator>
+    <dc:subject>Music.</dc:subject>
+    <dc:description>Bibliography: p. [195]-198.</dc:description>
+    <dc:publisher>New York, W. W. Norton</dc:publisher>
+    <dc:description>Translation of two essays first published in Die Musik in Geschichte und Gegenwart.</dc:description>
+    <dc:subject>Music</dc:subject>
+    <dc:type>text</dc:type>
+    <dc:title>Classic and romantic music; a comprehensive survey.</dc:title>
+    <dc:subject>Classicism in music.</dc:subject>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A8">
+    <dc:type>text</dc:type>
+    <dc:creator>Werner, Heinz,1901-</dc:creator>
+    <dc:title>A caravan of music stories by the world's great authors;</dc:title>
+    <dc:publisher>New York, F. Fell,</dc:publisher>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:language>eng</dc:language>
+    <dc:creator>http://id.loc.gov/authorities/names/no99039470.html</dc:creator>
+    <dc:subject>Music.</dc:subject>
+    <dc:date>1947.</dc:date>
+    <dc:creator>Fabricant, Noah D.(Noah Daniel),1904-</dc:creator>
+    <dc:creator>http://id.loc.gov/authorities/names/no96020947.html</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A9">
+    <dc:creator>Hubbard, William Lines,1867-</dc:creator>
+    <dc:creator>Foote, Arthur,1853-1937.</dc:creator>
+    <dc:type>text</dc:type>
+    <dc:creator>Liebling, Emil,1851-1914.</dc:creator>
+    <dc:title>The American history and encyclopedia of music /</dc:title>
+    <dc:creator>http://id.loc.gov/authorities/names/n85177147.html</dc:creator>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:subject>Music.</dc:subject>
+    <dc:creator>Green, Janet M.</dc:creator>
+    <dc:language>eng</dc:language>
+    <dc:date>1924.</dc:date>
+    <dc:creator>http://id.loc.gov/authorities/names/no2001052424.html</dc:creator>
+    <dc:creator>Dickinson, Edward,1853-1946.</dc:creator>
+    <dc:publisher>New York : Irving Squire,</dc:publisher>
+    <dc:creator>Andrews, George W.</dc:creator>
+    <dc:creator>http://id.loc.gov/authorities/names/no97053266.html</dc:creator>
+    <dc:creator>http://id.loc.gov/authorities/names/n50027315.html</dc:creator>
+    <dc:description>--v. 1-2. Operas, with introduction by H. E. Krehbiel.  W. L. Hubbard, editor.--v. 3. History of foreign music, with introduction by F. Starr. W. L. Hubbard, editor.--v. 4. Musical instruments, with introduction by F. Stock and G. W. Andrews, editor.--v. 5-6. Musical biographies, by Janet M. Green.  W. L. Hubbard, editor.--v. 7. Oratorios and masses, by Josephine Thrall, with introduction by E. Dickinson, editor.--v. 8. History of American music, with introductions by G. W. Chadwick and F. Damrosch.  W. L. Hubbard, editor.--v. 9. Theory of music, with introductions by W. L. Hubbard, E. Liebling and W. J. Henderson.  A. Foote, editor.--v. 10. Musical dictionary.  W. L. Hubbard, editor.--v. 11-12. Essentials of music.  E. Liebling, editor.</dc:description>
+    <dc:creator>Thrall, Josephine.</dc:creator>
+    <dc:creator>http://id.loc.gov/authorities/names/n79089279.html</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A10">
+    <dc:language>eng</dc:language>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:subject>Music, Influence of.</dc:subject>
+    <dc:title>Address [microform] : gentlemen of the Union Harmonic Society.</dc:title>
+    <dc:subject>Music.</dc:subject>
+    <dc:description>Microfiche.</dc:description>
+    <dc:publisher>[Charleston, S.C. : s.n.,</dc:publisher>
+    <dc:type>text</dc:type>
+    <dc:description>Title in Shaw &amp; Shoemaker:  Address to the gentlemen of the Union Harmonic Society.</dc:description>
+    <dc:description>Shaw &amp; Shoemaker,</dc:description>
+    <dc:creator>Union Harmonic Society (Charleston, S.C.)</dc:creator>
+    <dc:date>1816?]</dc:date>
+    <dc:subject>Union Harmonic Society (Charleston, S.C.)</dc:subject>
+    <dc:description>Caption title.</dc:description>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088859.html</dc:subject>
+    <dc:coverage>United States South Carolina Charleston.</dc:coverage>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A11">
+    <dc:title>The American history and encyclopedia of music ...</dc:title>
+    <dc:creator>http://id.loc.gov/authorities/names/n50027315.html</dc:creator>
+    <dc:creator>http://id.loc.gov/authorities/names/n79089279.html</dc:creator>
+    <dc:creator>Liebling, Emil,1851-1914.</dc:creator>
+    <dc:creator>Green, Janet M.</dc:creator>
+    <dc:creator>Andrews, George W.</dc:creator>
+    <dc:type>text</dc:type>
+    <dc:creator>Foote, Arthur,1853-1937.</dc:creator>
+    <dc:date>[c1908-10]</dc:date>
+    <dc:description>Operas, with introduction by H.E. Krehbiel. W.L. Hubbard, editor. 2 v.--History of foreign music, with introduction by F. Starr. W.L. Hubbard, editor.--Musical instruments, with introduction by F. Stock and G.W. Andrews, editor--Musical biographies, by Janet M. Green. W.L. Hubbard, editor. 2 v.--Oratorios and masses, by Josephine Thrall, with introduction by E. Dickinson, editor.--History of American music, with introductions by G.W. Chadwick and F. Damrosch. W.L. Hubbard, editor.--Theory of music. with introductions by W.L. Hubbard, E. Liebling and W.J. Henderson. A. Foote, editor--Musical dictionary. W.L. Hubbard, editor.--Essentials of music. E. Liebling, editor. 2 v.</dc:description>
+    <dc:publisher>Toledo, New York [etc.] I. Squire</dc:publisher>
+    <dc:creator>http://id.loc.gov/authorities/names/no97053266.html</dc:creator>
+    <dc:creator>Thrall, Josephine.</dc:creator>
+    <dc:creator>http://id.loc.gov/authorities/names/n85177147.html</dc:creator>
+    <dc:creator>Dickinson, Edward,1853-1946.</dc:creator>
+    <dc:creator>http://id.loc.gov/authorities/names/no2001052424.html</dc:creator>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:language>eng</dc:language>
+    <dc:creator>Hubbard, William Lines,1867-</dc:creator>
+    <dc:subject>Music.</dc:subject>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A12">
+    <dc:language>eng</dc:language>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:publisher>Hanover, N.H. : Printed by Charles and William S. Spear,</dc:publisher>
+    <dc:date>1810.</dc:date>
+    <dc:subject>Music.</dc:subject>
+    <dc:description>Microfiche.</dc:description>
+    <dc:coverage>United States New Hampshire Hanover.</dc:coverage>
+    <dc:title>An address on music [microform] : delivered before the Handel Society, Dartmouth College, August, 1809, on occasion of their anniversary /</dc:title>
+    <dc:creator>Brown, Francis,1784-1820.</dc:creator>
+    <dc:type>text</dc:type>
+    <dc:creator>http://id.loc.gov/authorities/names/n88606085.html</dc:creator>
+    <dc:description>Shaw &amp; Shoemaker,</dc:description>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A13">
+    <dc:date>1970.</dc:date>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:type>text</dc:type>
+    <dc:language>ger</dc:language>
+    <dc:subject>Beethoven, Ludwig van, 1770-1827.</dc:subject>
+    <dc:creator>&amp;#xd6;sterreichische Akademie der Wissenschaften.</dc:creator>
+    <dc:publisher>Wien, Kl̲n, Graz, Bh̲lau in Komm.,</dc:publisher>
+    <dc:subject>Music.</dc:subject>
+    <dc:creator>http://id.loc.gov/authorities/names/n79107741.html</dc:creator>
+    <dc:title>Beethoven-Studien.</dc:title>
+    <dc:subject>http://id.loc.gov/authorities/names/n79107741.html</dc:subject>
+    <dc:creator>Beethoven, Ludwig van,1770-1827.</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A14">
+    <dc:creator>http://id.loc.gov/authorities/names/n79006877.html</dc:creator>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:subject>Music.</dc:subject>
+    <dc:language>eng</dc:language>
+    <dc:date>[1964]</dc:date>
+    <dc:publisher>London, J. Baker</dc:publisher>
+    <dc:type>text</dc:type>
+    <dc:creator>Wilson, Colin,1931-</dc:creator>
+    <dc:title>Brandy of the damned; discoveries of a musical eclectic.</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A15">
+    <dc:description>System requirements: FOD playback platform.</dc:description>
+    <dc:type>Educational films.</dc:type>
+    <dc:description>Encoded with permission for digital streaming by Films Media Group on May 12, 2005.</dc:description>
+    <dc:creator>NVC Arts (Firm)</dc:creator>
+    <dc:title>The Birth and life of opera [electronic resource (video)] /</dc:title>
+    <dc:creator>http://id.loc.gov/authorities/names/no2005057562.html</dc:creator>
+    <dc:subject>Musical form.</dc:subject>
+    <dc:type>moving image</dc:type>
+    <dc:description>Opera is unique among musical forms in that it developed over a relatively short period of time, unlike the concerto or symphony. From the birth of opera in Florence with the Camerata to the genius of Monteverdi and beyond, this program looks at how opera grew into both a form of entertainment and a vehicle for delivering incisive social, political, and cultural messages. The operettas of Offenbach and of Gilbert and Sullivan are also considered, as is opera's maturation into a worldwide phenomenon.</dc:description>
+    <dc:creator>http://id.loc.gov/authorities/names/no2003057097.html</dc:creator>
+    <dc:language>eng</dc:language>
+    <dc:publisher>New York, N.Y. : Films Media Group,</dc:publisher>
+    <dc:creator>Films for the Humanities &amp; Sciences (Firm)</dc:creator>
+    <dc:subject>Music</dc:subject>
+    <dc:description>Title from distributor's description.</dc:description>
+    <dc:type>Videorecording.local.</dc:type>
+    <dc:subject>Music.</dc:subject>
+    <dc:identifier>http://library.cocc.edu:2048/login?url=http://digital.films.com/PortalPlaylists.aspx?aid=7710&amp;xtid=10878</dc:identifier>
+    <dc:subject>Musical instruments.</dc:subject>
+    <dc:creator>Films Media Group.</dc:creator>
+    <dc:date>[2005], c1999.</dc:date>
+    <dc:description>Mode of access: Internet.</dc:description>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088959.html</dc:subject>
+    <dc:rights>Access requires authentication through Films on Demand.</dc:rights>
+    <dc:relation></dc:relation>
+    <dc:subject>Music appreciation.</dc:subject>
+    <dc:type>Internet videos.</dc:type>
+    <dc:description>Uniqueness of Opera (0:30) -- Opera's History and Italy (3:14) -- Camerata (3:03) -- Opera in Mantua (4:26) -- Monteverdi's Music (2:10) -- Political Influences and Accesses (3:58) -- Controversy in Opera (4:19) -- Mozart's "The Marriage of Figaro" (4:03) -- Politics and Opera (4:17) -- Operas and Nationalistic Pride (5:13) -- Opera and Musicals (2:30) -- Popularity of Opera Today (5:14) -- Opera in China (3:46) -- Opera's Universal Appeal (2:24)</dc:description>
+    <dc:description>Films on Demand is distributed by Films Media Group for Films for the Humanities &amp; Sciences, Cambridge Educational, Meridian Education, and Shopware.</dc:description>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088961.html</dc:subject>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088894.html</dc:subject>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:creator>http://id.loc.gov/authorities/names/no94027450.html</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A16">
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:subject>Music.</dc:subject>
+    <dc:description>Includes bibliographical references and index.</dc:description>
+    <dc:language>eng</dc:language>
+    <dc:date>1983.</dc:date>
+    <dc:publisher>[London] : Toccata Press,</dc:publisher>
+    <dc:type>text</dc:type>
+    <dc:creator>Boult, Adrian,Sir,1889-</dc:creator>
+    <dc:title>Boult on music : words from a lifetime's communication /</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A17">
+    <dc:publisher>Boston, New York, Houghton Mifflin Company,</dc:publisher>
+    <dc:creator>http://id.loc.gov/authorities/names/n85382302.html</dc:creator>
+    <dc:title>The book of musical knowledge; the history, technique, and appreciation of music, together with lives of the great composers, for music-lovers, students and teachers,</dc:title>
+    <dc:language>eng</dc:language>
+    <dc:creator>Elson, Arthur,1873-1940.</dc:creator>
+    <dc:subject>Music.</dc:subject>
+    <dc:subject>Musicians.</dc:subject>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85089027.html</dc:subject>
+    <dc:date>c1915.</dc:date>
+    <dc:type>text</dc:type>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A18">
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:publisher>Boston : Printed by Manning and Loring,</dc:publisher>
+    <dc:subject>Music.</dc:subject>
+    <dc:title>An address on music [microform] : delivered before the Singing Society of the Second Baptist Church in Boston, on ... 7th April, 1814 /</dc:title>
+    <dc:creator>http://id.loc.gov/authorities/names/n89634397.html</dc:creator>
+    <dc:description>Microfiche.</dc:description>
+    <dc:type>text</dc:type>
+    <dc:description>Shaw &amp; Shoemaker,</dc:description>
+    <dc:date>1814.</dc:date>
+    <dc:coverage>United States Massachusetts Boston.</dc:coverage>
+    <dc:language>eng</dc:language>
+    <dc:creator>Winchell, James M.(James Manning),1791-1820.</dc:creator>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="A19">
+    <dc:creator>http://id.loc.gov/authorities/names/n80046057.html</dc:creator>
+    <dc:language>eng</dc:language>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85077507.html</dc:subject>
+    <dc:date>[1967]</dc:date>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85088762.html</dc:subject>
+    <dc:subject>Art.</dc:subject>
+    <dc:subject>Music.</dc:subject>
+    <dc:subject>Literature.</dc:subject>
+    <dc:description>Reprint of the 1928 ed.</dc:description>
+    <dc:creator>Rosenfeld, Paul,1890-1946.</dc:creator>
+    <dc:subject>http://id.loc.gov/authorities/subjects/sh85007461.html</dc:subject>
+    <dc:type>text</dc:type>
+    <dc:publisher>Freeport, N.Y., Books for Libraries Press</dc:publisher>
+    <dc:title>By way of art; criticisms of music, literature, painting, sculpture, and the dance.</dc:title>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,60 @@
+		//Property pp = model.getProperty("dc", "title");
+		// ResIterator riter = model.listSubjects();
+		// printRdfToConsole(model);
+		// while (riter.hasNext()){
+		//
+		// Resource jjj = riter.nextResource();
+		// System.out.println(riter.nextResource().getModel().toString());
+		// System.out.println(jjj.getLocalName());
+		// }
+
+		// while(iter.hasNext()){
+
+		// System.out.println(iter.nextStatement().getObject().toString());
+		// }
+		
+					//if(stmt.getPredicate() == "http://purl.org/dc/elements/1.1/subject" )
+					
+					//	public StmtIterator getSomethingWithStatement(Model model, Property pp){
+		
+//		SimpleSelector selector = new SimpleSelector(null, null, (RDFNode)null) {
+//		    public boolean selects(Statement st)
+//		        { return st.getSubject().equals(someRelevantSubject);}
+//		}
+	//
+
+// Property pp = model.getProperty("dc", "title");
+// if(predicate.equals(p2)){
+
+// subject.addProperty(p2, locwebcall);
+// }
+
+// else{
+
+// System.out.println("testnohere");
+// }
+// ResIterator resiter = model.listResourcesWithProperty(p2);
+// System.out.println(resoustuff.getLocalName().toString());
+// predicate
+
+// String locwebcall = LocWebCall.try03(object);
+// System.out.println(locwebcall);
+// resoustuff.addProperty(p2, "testtttttttt");
+// Auto-generated catch block
+
+// model.add(jjl);
+// model.commit();
+	
+		
+//		StmtIterator iter = model.listStatements(selector);
+//		while(iter.hasNext()) {
+//		   Statement stmt = iter.nextStatement();
+//		   //some_set.add(stmt.getPredicate().toString());
+//		}
+//		return iter;
+//	}
+}
+
+
+//http://stackoverflow.com/questions/15251115/how-to-return-property-of-a-resource-using-jena-api-in-java/15254601#15254601
+					
